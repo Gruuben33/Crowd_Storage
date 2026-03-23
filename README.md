@@ -2,6 +2,6 @@
 Make a group of roaming "humans" using classes
 
 ## Checklist
-[ ] create a class
-[ ] add accurate inputs and predetermined values
-[ ] make class draw human
+[x] create a class
+[x] add accurate inputs and predetermined values
+[x] make class draw human
